@@ -1,0 +1,29 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+   margin: 8px;
+   text-align: justify; 
+}
+
+#column1 {
+    margin: 10px; 
+    float: left; width: 30%;
+    background: #cfc;
+}
+#column2 {
+    margin: 10px; 
+    float: left; width: 30%;
+    text-align: center;
+}
+#column3 {
+    margin: 10px; 
+    float: left; width: 30%;
+    background: #ffc;
+    text-align: center;
+}
+#imaxt {
+    width: 580px;
+    height: 350px;
+}
